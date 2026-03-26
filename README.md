@@ -39,6 +39,7 @@ npx cypress run
 
 📁 Estrutura do Projeto
 cypress/
+
  ├── e2e
  
  ├── fixtures
