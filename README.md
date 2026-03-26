@@ -47,9 +47,9 @@ cypress/
  ├── support
  
 🧪 Tipos de Testes
-Testes End-to-End
-Testes de Regressão
-Fluxos Críticos
+Testes pesquisa com sucesso
+Testes pesquisa item invalido
+
 👨‍💻 Autor
 
 Edson Lira Póvoa
