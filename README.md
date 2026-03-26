@@ -33,3 +33,20 @@ Abrir interface do Cypress:
 Executar testes
 npx cypress open
 
+Executar em modo headless:
+
+npx cypress run
+
+📁 Estrutura do Projeto
+cypress/
+ ├── e2e
+ ├── fixtures
+ ├── support
+🧪 Tipos de Testes
+Testes End-to-End
+Testes de Regressão
+Fluxos Críticos
+👨‍💻 Autor
+
+Edson Lira Póvoa
+QA Engineer | Automação de Testes
