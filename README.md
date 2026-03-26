@@ -1,4 +1,4 @@
-# 🧪 BlogDaAgi - Automação de Testes
+# 🧪 BlogDoAgi - Automação de Testes
 
 Projeto de automação de testes end-to-end desenvolvido utilizando Cypress para validação de funcionalidades do BlogDaAgi.
 
@@ -60,8 +60,6 @@ cypress/
 **Edson Lira Póvoa**
 QA Engineer | Automação de Testes
 
-## 📌 Observações
 
-Projeto desenvolvido para fins de estudo e portfólio profissional.
 
 
