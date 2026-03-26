@@ -1,19 +1,67 @@
-Autor
-EDSON LIRA PÓVOA
+# 🧪 BlogDaAgi - Automação de Testes
 
-Projeto de automação de testes utilizando Cypress.
+Projeto de automação de testes end-to-end desenvolvido utilizando Cypress para validação de funcionalidades do BlogDaAgi.
+
+## 🎯 Objetivo
+
+Garantir a qualidade da aplicação através de testes automatizados, cobrindo fluxos críticos e prevenindo regressões.
 
 ## 🚀 Tecnologias
 
-- Cypress
-- JavaScript
-- Node.js
+* Cypress
+* JavaScript
+* Node.js
 
 ## 📦 Instalação
 
+Clone o repositório:
+
+```bash
+git clone https://github.com/Edson-Lira-Povoa/BlogDaAgi.git
+```
+
+Instale as dependências:
+
 ```bash
 npm install
+```
 
-Executar testes
+## ▶️ Executar testes
+
+Abrir interface do Cypress:
+
+```bash
 npx cypress open
+```
+
+Executar em modo headless:
+
+```bash
+npx cypress run
+```
+
+## 📁 Estrutura do Projeto
+
+```
+cypress/
+ ├── e2e
+ ├── fixtures
+ ├── support
+```
+
+## 🧪 Tipos de Testes
+
+* Testes End-to-End
+* Testes de Regressão
+* Fluxos Críticos
+
+## 👨‍💻 Autor
+
+**Edson Lira Póvoa**
+QA Engineer | Automação de Testes
+
+## 📌 Observações
+
+Projeto desenvolvido para fins de estudo e portfólio profissional.
+
 
